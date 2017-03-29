@@ -16,3 +16,4 @@ This repository contains:
   2016 CodeJam :
       Qualification Round:
           1.Counting Sheeps
+          2.Revenge Of the Pancakes
