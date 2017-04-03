@@ -8,7 +8,7 @@ I'll update this repository whenever I'll solve a new Problem.
 
 This repository contains:<br>
   2010 Africa CodeJam :<br>
-     &nbspQualification Round:<br>
+      Qualification Round:<br>
           &nbsp1.T9 Spelling <br>
          &nbsp 2.Reverse Words<br>
          &nbsp 3.Store Credit<br>
