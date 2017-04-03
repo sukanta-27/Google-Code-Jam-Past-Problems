@@ -8,21 +8,21 @@ I'll update this repository whenever I'll solve a new Problem.
 
 This repository contains:<br>
   2010 Africa CodeJam :<br>
-      Qualification Round:<br>
-          1.T9 Spelling <br>
-          2.Reverse Words<br>
-          3.Store Credit<br>
+      &nbsp;Qualification Round:<br>
+        &nbsp;&nbsp;  1.T9 Spelling <br>
+         &nbsp;&nbsp; 2.Reverse Words<br>
+        &nbsp;&nbsp;  3.Store Credit<br>
   
   2016 CodeJam :<br>
      &nbsp;Qualification Round:<br>
-          &nbsp;1.Counting Sheeps<br>
-          &nbsp2.Revenge Of the Pancakes<br><br>
+          &nbsp;&nbsp;1.Counting Sheeps<br>
+          &nbsp;&nbsp;2.Revenge Of the Pancakes<br><br>
           
   2015 CodeJam :<br>
-    &nbspQualification Round:<br>
-          &nbsp1.Standing Ovation<br>
+    &nbsp;Qualification Round:<br>
+        &nbsp;  &nbsp;1.Standing Ovation<br>
           
   2014 CodeJam :<br>
-   &nbspQualification Round:<br>
-          &nbsp1.Magician Trick<br>
-          &nbsp2.Cookie Clicker<br>
+   &nbsp;Qualification Round:<br>
+         &nbsp; &nbsp;1.Magician Trick<br>
+         &nbsp; &nbsp;2.Cookie Clicker<br>
