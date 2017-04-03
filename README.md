@@ -9,13 +9,13 @@ I'll update this repository whenever I'll solve a new Problem.
 This repository contains:<br>
   2010 Africa CodeJam :<br>
       Qualification Round:<br>
-          &nbsp1.T9 Spelling <br>
-         &nbsp 2.Reverse Words<br>
-         &nbsp 3.Store Credit<br>
+          1.T9 Spelling <br>
+          2.Reverse Words<br>
+          3.Store Credit<br>
   
   2016 CodeJam :<br>
-     &nbspQualification Round:<br>
-          &nbsp1.Counting Sheeps<br>
+     &nbsp;Qualification Round:<br>
+          &nbsp;1.Counting Sheeps<br>
           &nbsp2.Revenge Of the Pancakes<br><br>
           
   2015 CodeJam :<br>
