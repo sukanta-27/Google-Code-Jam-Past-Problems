@@ -9,7 +9,7 @@ I'll update this repository whenever I'll solve a new Problem.
 This repository contains:
   2010 Africa CodeJam :
       Qualification Round:
-          1.T9 Spelling
+          1.T9 Spelling<br>
           2.Reverse Words
           3.Store Credit
   
