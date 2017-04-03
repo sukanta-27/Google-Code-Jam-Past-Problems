@@ -6,23 +6,23 @@ These solutions are by no means perfect (But Correct as judged by Code Jam Onlin
 
 I'll update this repository whenever I'll solve a new Problem.
 
-This repository contains:
-  2010 Africa CodeJam :
-      Qualification Round:
-          1.T9 Spelling<br>
-          2.Reverse Words
-          3.Store Credit
+This repository contains:<br>
+  2010 Africa CodeJam :<br>
+     &nbspQualification Round:<br>
+          &nbsp1.T9 Spelling <br>
+         &nbsp 2.Reverse Words<br>
+         &nbsp 3.Store Credit<br>
   
-  2016 CodeJam :
-      Qualification Round:
-          1.Counting Sheeps
-          2.Revenge Of the Pancakes
+  2016 CodeJam :<br>
+     &nbspQualification Round:<br>
+          &nbsp1.Counting Sheeps<br>
+          &nbsp2.Revenge Of the Pancakes<br><br>
           
-  2015 CodeJam :
-      Qualification Round:
-          1.Standing Ovation
+  2015 CodeJam :<br>
+    &nbspQualification Round:<br>
+          &nbsp1.Standing Ovation<br>
           
-  2014 CodeJam :
-      Qualification Round:
-          1.Magician Trick
-          2.Cookie Clicker
+  2014 CodeJam :<br>
+   &nbspQualification Round:<br>
+          &nbsp1.Magician Trick<br>
+          &nbsp2.Cookie Clicker<br>
