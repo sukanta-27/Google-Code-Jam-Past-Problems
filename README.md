@@ -17,3 +17,12 @@ This repository contains:
       Qualification Round:
           1.Counting Sheeps
           2.Revenge Of the Pancakes
+          
+  2015 CodeJam :
+      Qualification Round:
+          1.Standing Ovation
+          
+  2014 CodeJam :
+      Qualification Round:
+          1.Magician Trick
+          2.Cookie Clicker
