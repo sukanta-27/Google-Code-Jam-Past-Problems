@@ -6,23 +6,25 @@ These solutions are by no means perfect (But Correct as judged by Code Jam Onlin
 
 I'll update this repository whenever I'll solve a new Problem.
 
-This repository contains:<br>
-  2010 Africa CodeJam :<br>
-      &nbsp;Qualification Round:<br>
-        &nbsp;&nbsp;  1.T9 Spelling <br>
-         &nbsp;&nbsp; 2.Reverse Words<br>
-        &nbsp;&nbsp;  3.Store Credit<br>
+This repository contains:
+<ul>
+ <li> 2010 Africa CodeJam :</li>
+      &nbsp;&nbsp;&nbsp;&nbsp;Qualification Round:<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.T9 Spelling <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.Reverse Words<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  3.Store Credit<br>
   
-  2016 CodeJam :<br>
-     &nbsp;Qualification Round:<br>
-          &nbsp;&nbsp;1.Counting Sheeps<br>
-          &nbsp;&nbsp;2.Revenge Of the Pancakes<br><br>
+ <li> 2016 CodeJam :</li>
+     &nbsp;&nbsp;&nbsp;&nbsp;Qualification Round:<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.Counting Sheeps<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.Revenge Of the Pancakes<br><br>
           
-  2015 CodeJam :<br>
-    &nbsp;Qualification Round:<br>
-        &nbsp;  &nbsp;1.Standing Ovation<br>
+ <li> 2015 CodeJam :</li>
+    &nbsp;&nbsp;&nbsp;&nbsp;Qualification Round:<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.Standing Ovation<br>
           
-  2014 CodeJam :<br>
-   &nbsp;Qualification Round:<br>
-         &nbsp; &nbsp;1.Magician Trick<br>
-         &nbsp; &nbsp;2.Cookie Clicker<br>
+ <li> 2014 CodeJam :</li>
+   &nbsp;&nbsp;&nbsp;&nbsp;Qualification Round:<br>
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.Magician Trick<br>
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.Cookie Clicker<br>
+  </ul>
