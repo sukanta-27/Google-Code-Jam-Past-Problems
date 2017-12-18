@@ -8,11 +8,16 @@ I'll update this repository whenever I'll solve a new Problem.
 
 This repository contains:
 <ul>
- <li> 2010 Africa CodeJam :</li>
-      &nbsp;&nbsp;&nbsp;&nbsp;Qualification Round:<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.T9 Spelling <br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.Reverse Words<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  3.Store Credit<br>
+ <li> 2010 Africa CodeJam :
+ <div>
+  <br>Qualification Round:<br>
+  <ol>
+      <li>T9 Spelling </li>
+      <li>Reverse Words</li>
+      <li>Store Credit</li>
+  </ol>
+ </div>
+      </li>
   
  <li> 2016 CodeJam :</li>
      &nbsp;&nbsp;&nbsp;&nbsp;Qualification Round:<br>
